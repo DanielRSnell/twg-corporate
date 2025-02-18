@@ -10,7 +10,7 @@ button:
   link: /contact
   label: See Job Openings
 about:
-  image: ../../../public/images/office-img-1.webp
+  image: /images/office-img-1.webp
   stats:
     - key: FOUNDED
       value: '2015'
