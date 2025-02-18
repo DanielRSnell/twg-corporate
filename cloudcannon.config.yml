@@ -4,82 +4,102 @@ paths:
   static: static
 collections_config:
   config:
-    path: config
+    path: src/config
     name: Config
     icon: coffee
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_about:
-    path: content/about
+    path: src/content/about
     name: Content About
     icon: content_cut
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_blog:
-    path: content/blog
+    path: src/content/blog
     name: Content Blog
     icon: content_copy
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_career:
-    path: content/career
+    path: src/content/career
     name: Content Career
     icon: content_paste
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_contact:
-    path: content/contact
+    path: src/content/contact
     name: Content Contact
     icon: content_copy
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_homepage:
-    path: content/homepage
+    path: src/content/homepage
     name: Content Homepage
     icon: contact_page
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_pages:
-    path: content/pages
+    path: src/content/pages
     name: Content Pages
     icon: contact_page
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_partners:
-    path: content/partners
+    path: src/content/partners
     name: Content Partners
     icon: content_paste
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_sections:
-    path: content/sections
+    path: src/content/sections
     name: Content Sections
     icon: collections
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
   content_service:
-    path: content/service
+    path: src/content/service
     name: Content Service
     icon: content_paste
     disable_url: false
+    description: ''
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
