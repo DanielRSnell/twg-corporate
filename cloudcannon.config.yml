@@ -2,7 +2,7 @@ _schema: _schema
 paths:
   uploads: public/
   uploads_use_relative_path: false
-  static:
+  static: public
 collections_config:
   config:
     path: src/config
