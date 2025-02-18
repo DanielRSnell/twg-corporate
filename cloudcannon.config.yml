@@ -1,7 +1,7 @@
 _schema: _schema
 paths:
   uploads: public/
-  uploads_use_relative_path: true
+  uploads_use_relative_path: false
   static:
 collections_config:
   config:
